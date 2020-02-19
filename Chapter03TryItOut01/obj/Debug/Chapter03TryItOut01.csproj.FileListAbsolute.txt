@@ -1,0 +1,7 @@
+D:\IBT\C# Windows Form\Chapter03TryItOut01\bin\Debug\Chapter03TryItOut01.exe.config
+D:\IBT\C# Windows Form\Chapter03TryItOut01\bin\Debug\Chapter03TryItOut01.exe
+D:\IBT\C# Windows Form\Chapter03TryItOut01\bin\Debug\Chapter03TryItOut01.pdb
+D:\IBT\C# Windows Form\Chapter03TryItOut01\obj\Debug\Chapter03TryItOut01.csprojAssemblyReference.cache
+D:\IBT\C# Windows Form\Chapter03TryItOut01\obj\Debug\Chapter03TryItOut01.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter03TryItOut01\obj\Debug\Chapter03TryItOut01.exe
+D:\IBT\C# Windows Form\Chapter03TryItOut01\obj\Debug\Chapter03TryItOut01.pdb
